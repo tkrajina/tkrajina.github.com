@@ -1,23 +1,29 @@
-# Curriculum Vitae: Tomo Krajina
-
-I'm a Java, Golang and Python developer with 13+ years of experience. I worked on web and back-end applications, telecommunications, enterprise banking systems, video processing backends and mobile apps. I am especially interested in open source and all things GPS related.
+I'm a Java, Golang and Python developer with 15 years of experience. I worked on web and back-end applications, telecommunications, enterprise banking systems, video processing backends and mobile apps. I am especially interested in education, GPS and open source.
 
 My professional carreer is mostly about backend Java/Golang and (more recently) Android projects.
 
-I'm also a regular open source contributor (<https://github.com/tkrajina>), where I use Python, Golang and Java.
+I'm also a regular open source contributor (<https://github.com/tkrajina>), where I use Python, Golang, Java and Typescript.
 
-## Experience:
+## Experience
 
-* **Java** 13 years
-* **Go(lang)** 4 years
-* **Python** 12 years
-* **Google Maps**, **Leaflet** 8 years
-* **Google Cloud** 7 years
-* **Test-driven Development (TDD)** 8 years
-* **Agile Software Development** 8 years
-* **Android** 2 years
+* **Java** 15 years
+* **Go(lang)** 6 years
+* **Python** 16 years
+* **Android** 5 years
+* **react-native** 2 year
+* **Typescript** 5 years
+* **Google Maps**, **Leaflet** 9 years
+* **Google Cloud** 12 years
+* **Test-driven Development (TDD)** 15 years
+* **Agile Software Development** 10 years
 
 ## Employment:
+
+### Helping to build the IT infrastructure, Coachbit, 2019 - PRESENT
+
+* Developing an innovative educational application
+
+Technologies: **Golang**, **react-native**, **typescript**
 
 ### Owner, SCIO, 2015 - PRESENT
 * Worked and maintained various open source projects. Mostly Python, Golang, and Java (Android).
@@ -29,7 +35,16 @@ I'm also a regular open source contributor (<https://github.com/tkrajina>), wher
 
 Technologies: **Golang**, **Java**, **Python**, **Google Cloud**, **Android**
 
+### Back-end and Mobile Software Engineer, Teach me 2, 2018 - 2019
+
+* Developed a bot for Telegram chat
+* Developed Android and iOS mobile phone applications
+* Developed a REST API for mobile clients
+
+Technologies: **Golang**, **react-native**, **typescript**
+
 ### Back-end Software Engineer, Globio, 2017
+
 * Implemented a back-end ane website
 * Implemented several payment application services
 
@@ -85,93 +100,101 @@ Technologies: **PHP**, **Java**
 
 Technologies: **Python**, **Chalk and board**
 
-## Selected projects and writings:
+## Selected projects:
 
 ### 10,000 Sentences (Android app)
+
 URL: <https://github.com/tkrajina/10000sentences>
 
 10,000 sentences an language learning Android app to help users learn new words in a foreign language. The idea is to go through 10,000 sentences in a target language. By exposing users to unknown words in a real context (a sentence) they learn new words.
 
+### Typescriptify Golang Structs (Open source tool and library)
+
+URL: <https://github.com/tkrajina/typescriptify-golang-structs>
+
+A helper tool and library to seamlessly use Golang models in Typescript.
+
+### Gpxpy (Open source library)
+
+URL: <https://github.com/tkrajina/gpxpy>
+
+Gpxpy is a Python library for GPS/GPX tracks. It implements all the most common algorithms used to manipulate and analyze GPS track data. Widely used in GIS-related research and GPS-related apps.
+
+### GoLongFuncs (Open source tool)
+
+URL: <https://github.com/tkrajina/golongfuncs>
+
+A statical analysis tool to discover long and complex functions in Golang. The user decides which measures of "complexity" to use, for example: "numer of variables in scope", "number of assignments", "nested blocks", "cyclomatic complexity", "complexity per line of code", etc.
+
 ### Go-reflector (Open source library)
+
 URL: <https://github.com/tkrajina/go-reflector>
 
 Golang reflection simplified.
 
 ### Ftmpl (Open source library)
+
 URL: <https://github.com/tkrajina/ftmpl>
 
 Ftmpl is a fast, compiled, and typesafe templating language for Golang.
 
-### Typescriptify Golang Structs
-URL: <https://github.com/tkrajina/typescriptify-golang-structs>
-
-A helper tool and library to seamlessly use Golang models in Typescript.
-
-### GoLongFuncs
-URL: <https://github.com/tkrajina/golongfuncs>
-
-A statical analysis tool to discover long and complex functions in Golang. The user decides which measures of "complexity" to use, for example: "numer of variables in scope", "number of assignments", "nested blocks", "cyclomatic complexity", "ceomplexity per line of code", etc.
-
 ### Trackprofiler (Web app, microservice)
+
 URL: <http://www.trackprofiler.com/>
 
 Trackprofiler is an online GPS track editor intended for hikers, mountain bikers, and outdoor lovers. Users can upload their tracks, fix common GPS errors, split or join tracks, add elevation data, etc. Tracks can be uploaded via email or from Dropbox.
 
-### Gpxpy (Open source library)
-URL: <https://github.com/tkrajina/gpxpy>
-
-Gpxpy is a Python library for GPS/GPX tracks. It implements all the most common algorithms used to manipulate and analyze GPS track data. Widely used in GIS-related research and GPS-related apps.
-
-### Git Introduction: Uvod u git (Open source book)
-URL: <http://tkrajina.github.com/uvod-u-git/git.pdf>
-
-An book about Git in Croatian.
-
-### Adventures in GPS Programming and Development: a Geospacial Tutorial
-URL: <https://www.toptal.com/gis/adventures-in-gps-track-analytics-a-geospatial-primer>
-
-An article explaining some common problems when analysing GPS data.
-
 ### Geo Elevations: SRTM.py (Open source library)
+
 URL: <https://github.com/tkrajina/srtm.py>
 
 A Python library for the Shuttle Radar Mission Data (SRTM) and the Earth Gravitational Model (EGM2008).
 
-### Leaflet Editable Polylines
+### Leaflet Editable Polylines (Open source plugin for Leaflet)
+
 URL: <https://github.com/tkrajina/leaflet-editable-polyline>
 
 A plugin for Leaflet (the interactive maps Javascript framework) used for editing large polylines.
 
-## Education:
+## Selected writings:
 
-* Bachelor's of Science degree in Math, PMF - Zagreb, 1993-1999
+### Introduction to HTTP Live Streaming: HLS on Android and More
 
-## Skills:
+URL: <https://www.toptal.com/apple/introduction-to-http-live-streaming-hls>
 
-* Languages: **Java**, **Python**, **Go**, **PHP**, **Ruby**
-* Libraries/APIs: **Google Maps**, **jQuery**, **LeafletJS**, **JasperReports**
-* Tools: **Vim**, **IntelliJ**, **Android Studio**, **Gimp**, **Shell**, **LaTeX**
-* Paradigms: **Agile Software Development**, **Test-driven Development (TDD)**
-* Platforms **Android**, **Google cloud**, **Google Firebase**, **Google App Engine**, **Linux**
-* Frameworks: **Spring**, **Spring MVC**, **Apache Struts 2**, **Gorilla**
-* Storage: **Amazon S3**, **Google datastore**, **DyanmoDB**, **MySQL**, **MS SQL**, **IBM - DB2**, **Memcached**, **Redis**, **Google cloud storage**
+In this article I'm explaining how Apple's HLS (HTTP Live Streaming) works. Includes a sample Android application with code.
 
-## Hobbies:
+### Adventures in GPS Programming and Development: a Geospacial Tutorial
+
+URL: <https://www.toptal.com/gis/adventures-in-gps-track-analytics-a-geospatial-primer>
+
+An article explaining some common problems when analysing GPS data.
+
+### Git Introduction: Uvod u git (Open source book)
+
+URL: <http://tkrajina.github.com/uvod-u-git/git.pdf>
+
+A book about Git in Croatian.
+
+## Education
+
+* mag.educ.math and inf. -- Faculty of Science of the University of Zagreb - Zagreb, 1993-1999
+
+## Hobbies
 
 * Mountaineering, hiking and nordic walking
 * Mountain- and road- biking
-* Reading (history, philosophy, languages, ...)
-* Go/Weiqi (the Chinese board game)
+* Reading: history, philosophy and science
 * Open source <https://github.com/tkrajina>
 
-## Languages:
+## Languages
 
 * **Croatian**/**Serbian** (native)
 * **English** (professional working proficiency)
 * **Italian** (professional working proficiency)
 * **Slovenian** (basic)
 
-## Contact:
+## Contact
 
 * email: tkrajina@gmail.com
 * skype: tomo.krajina.abc
