@@ -16,6 +16,9 @@ I'm also a regular open source contributor (<https://github.com/tkrajina>), wher
 * **Google Cloud** 12 years
 * **Test-driven Development (TDD)** 15 years
 * **Agile Software Development** 10 years
+* GIS: **qgis** (8 years)
+* CAD: **FreeCAD**, **OpenSCAD**, **solidpython2** (5 years)
+* 3d printing (3 years)
 
 ## Employment and freelance contracts:
 
@@ -32,6 +35,7 @@ Technologies: **Golang**, **react-native**, **typescript**
 * Created an Android application for numeric sequences and time tracking.
 * Developed a news aggregation Android application complete with back-end (AWS lambda and DynamoDB).
 * Created a panoramic photography sharing website (Panoye)
+* 3D printed maps <https://www.etsy.com/shop/3dterrains>
 
 Technologies: **Golang**, **Java**, **Python**, **Google Cloud**, **Android**
 
